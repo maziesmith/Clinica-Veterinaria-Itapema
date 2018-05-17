@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ModeloPadrao.master.cs" Inherits="prjVeterinariaItapemaNET.ModeloPadrao" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Veterinária Itapema</title>
+	<link rel="stylesheet" type="text/css" href="css/estiloGeral.css">
+	<link rel="stylesheet" href="css/font-awesome.css">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <section id="principal">
+		<header class="">
+			<div id="localLogo" class="fl">
+				<a href="index.aspx"><img src="images/logo.png" class="logopeq"></a>
+			</div>
+			<div id="localContatos" class="fl">
+				<div id="redesSociais" class="fl">
+					<a href="https://www.facebook.com/veterinariaitapema?fref=ts" target="_blank">
+					<img src="images/facebook.png" class="logoRedesSociais"></a>
+					<a href="https://instagram.com/clinica_itapema/" target="_blank">
+					<img src="images/instagram.png" class="logoRedesSociais"></a>
+				</div>
+				<div id="contatos" class="fl">
+					<i class="fa fa-envelope fa-fw"></i>itapemavet@hotmail.com 
+					<i class="fa fa-phone fa-fw"></i>(13) 3342-7517
+				</div>
+				<div class="cls"></div>
+			</div>
+			<div class="cls"></div>
+		</header>
+
+		<nav class="">
+			<ul id="menu" class="">
+				<li><a href="quemsomos.aspx">Quem somos</a></li>
+				<li><a href="clinica.aspx">A Clínica</a></li>
+				<li><a href="servicos.aspx">Serviços</a></li>
+				<li><a href="petshop.aspx">Pet Shop</a></li>
+				<li><a href="curiosidades.aspx">Curiosidades</a></li>
+				<li><a href="faleconosco.aspx">Fale Conosco</a></li>
+				<div class="cls"></div>
+			</ul>
+		</nav>
+
+		<main>
+			<div id="conteudoMain">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+                </asp:ContentPlaceHolder>
+            </div>
+		</main>
+	</section>
+	
+	<footer class="">
+		<div id="conteudoFooter" class="">
+			<div id="localEndereco" class="fl">
+				Oswaldo Cruz, 1396 - Sítio Paecará - Vicente de Carvalho – Guarujá
+				<br>Tel.: (13) 3342-7517
+			</div>
+			<div id="localDesenvolvimento" class="fl">Desenvolvido por Micael Cid</div>
+			<div class="cls"></div>
+		</div>
+	</footer>
+    
+    </form>
+</body>
+</html>

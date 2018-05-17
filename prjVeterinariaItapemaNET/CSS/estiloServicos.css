@@ -1,0 +1,27 @@
+.coluna1Gde2 { width: 66%; }
+.coluna2Pde2 { width: 33%; margin-left: 5px;}
+.coluna1 { width: 100%; }
+.imgDogServicos { margin-top: 60px; width: 100%; }
+.tumbFotoServico { width: 25%; text-align: center; }
+.tumbServicos { width: 95%; }
+
+/* MEDIA QUERY */
+@media screen and (max-width: 450px) 
+{
+	.coluna1Gde2 { width: 100%; }
+	.coluna2Pde2 { display: none; }
+	.tumbFotoServico { width: 100%; text-align: center; }
+	
+}
+
+@media screen and (min-width: 451px) and (max-width: 650px) 
+{
+	.coluna1Gde2 { width: 100%; }
+	.coluna2Pde2 { display: none; }
+}
+
+@media screen and (min-width: 651px) and (max-width: 960px) 
+{
+	.coluna1Gde2 { width: 100%; }
+	.coluna2Pde2 { display: none; }
+}

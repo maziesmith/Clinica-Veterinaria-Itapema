@@ -1,0 +1,20 @@
+.imgClinica { width: 100%; }
+.coluna1 { width: 100%; margin-bottom: 10px; }
+
+#esquerda_banner 
+{
+    position: absolute;
+    /*margin-top: 173px;*/
+    top: 50%;
+    margin-top: -27px;
+    /*margin-left: -40px;*/
+    left:15px;
+}
+
+#direita_banner 
+{
+    position: absolute;
+    top: 50%;
+    margin-top: -27px;
+    right: 15px;
+}

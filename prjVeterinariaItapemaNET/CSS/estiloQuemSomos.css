@@ -1,0 +1,22 @@
+.coluna1 { width: 100%; }
+.espDir { margin-right: 4px; }
+.colaborador { width: 32%; text-align: center; min-height: 333px;}
+.fotoColaborador { width: 100%; }
+.fotoColaborador img { width: 60%; }
+.dadosColaborador { width: 95%; text-align:center; padding: 5px;  }
+.nomeColaborador { font-weight: bold; }
+/* MEDIA QUERY */
+@media screen and (max-width: 450px) 
+{
+	.colaborador { width: 100%; }
+}
+
+@media screen and (min-width: 451px) and (max-width: 650px) 
+{
+	.colaborador { width: 49%;  }
+}
+
+@media screen and (min-width: 651px) and (max-width: 960px) 
+{
+	.colaborador { width: 49%;  }
+}

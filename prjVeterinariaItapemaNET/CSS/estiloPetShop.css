@@ -1,0 +1,22 @@
+.coluna1 { width: 100%; }
+.espDir { margin-right: 4px; }
+.produtoPetShop { width: 32%; text-align: center; min-height: 330px;}
+.fotoProdutoPetShop { width: 100%; }
+.fotoProdutoPetShop img { width: 90%; }
+.dadosProdutosPetShop { width: 95%; text-align:center; padding: 5px;  }
+.nomeProdutoPetShop { font-weight: bold; }
+/* MEDIA QUERY */
+@media screen and (max-width: 450px) 
+{
+	.produtoPetShop { width: 100%; }
+}
+
+@media screen and (min-width: 451px) and (max-width: 650px) 
+{
+	.produtoPetShop { width: 49%;  }
+}
+
+@media screen and (min-width: 651px) and (max-width: 960px) 
+{
+	.produtoPetShop { width: 49%;  }
+}

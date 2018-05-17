@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<funcionarios>
+  <funcionario>
+    <nome>Valéria</nome>
+    <descricao>A Valéria Raquel de Araujo, CRMV SP 8942, é formada pela Universidade Federal Rural do Rio de Janeiro, com uma vasta experiência em clinica geral e cirurgia. Presidente do Gremar (Grupo de resgate de animais marinhos) desde 2005.</descricao>
+    <nomeFoto>valeria</nomeFoto>
+  </funcionario>
+  <funcionario>
+    <nome>Izabella</nome>
+    <descricao>A Dra Izabella Ribeiro, CRMV SP 32959 tem formação na Faculdade de Medicina Veterinária de Garça e está cursando o Curso de Pós Graduação em Ortopedia na FMVZ-USP.</descricao>
+    <nomeFoto>izabella</nomeFoto>
+  </funcionario>
+  <funcionario>
+    <nome>Virginia</nome>
+    <descricao>A Virginia é responsável pelo banho e tosa. O diferencial dela é o cuidado e carinho que ela tem com os seus clientes de quatro patas. Profissional com muita experiência.</descricao>
+    <nomeFoto>virginia</nomeFoto>
+  </funcionario>
+  <funcionario>
+    <nome>Danilo</nome>
+    <descricao>O Danilo também faz parte do banho e tosa com o cuidado que o seu bichinho merece.</descricao>
+    <nomeFoto>danilo</nomeFoto>
+  </funcionario>
+  <funcionario>
+    <nome>Cida</nome>
+    <descricao>A Cida é a mãezona da turma, cuida de todos os clientes com carinho e também dos colegas de trabalho. Faz um café ótimo e cuida para que não falte nada nas salas e que a ordem seja mantida.</descricao>
+    <nomeFoto>cida</nomeFoto>
+  </funcionario>
+  <funcionario>
+    <nome>Adriana</nome>
+    <descricao>Dra. Adriana Cabral de Castro, formada pela UNIMES em 2004 e pós graduada em oftalmologia veterinária pela Anclivepa em 2008.</descricao>
+    <nomeFoto>adriana</nomeFoto>
+  </funcionario>
+  <funcionario>
+    <nome>Maria Izabel</nome>
+    <descricao>Dra Maria Izabel Zatti, médica Veterinária e sua especialidade é acupuntura veterinária.</descricao>
+    <nomeFoto>mariaIzabel</nomeFoto>
+  </funcionario>
+  <funcionario>
+    <nome>Cris</nome>
+    <descricao>A ​Cristina ​é a tosadora da nossa cl​í​nica​, muito carinhosa com os bichinhos​.</descricao>
+    <nomeFoto>cris</nomeFoto>
+  </funcionario>
+  <funcionario>
+    <nome>Luciana</nome>
+    <descricao>A ​Luciana ​é ​​nos​s​a velha conhecida, Lu, enfermeira veterinaria.</descricao>
+    <nomeFoto>luciana</nomeFoto>
+  </funcionario>
+  <funcionario>
+    <nome>Jéssica</nome>
+    <descricao>A ​Jéssica​ f​ica no atendimento ao cliente​. Profissional ​super competente​.​</descricao>
+    <nomeFoto>jessica</nomeFoto>
+  </funcionario>
+  <funcionario>
+    <nome>Micael</nome>
+    <descricao>O Micael é um excelente aluno</descricao>
+    <nomeFoto>micael</nomeFoto>
+  </funcionario>
+  <funcionario>
+    <nome>Sherlock</nome>
+    <descricao>Sherlock desvenda todos os crimes</descricao>
+    <nomeFoto>sherlock</nomeFoto>
+  </funcionario>
+</funcionarios>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ADMINS>
+  <ADMIN>
+    <USERNAME>micaelcid</USERNAME>
+    <PASSWORD>123456</PASSWORD>
+  </ADMIN>
+  <ADMIN>
+    <USERNAME>fulano</USERNAME>
+    <PASSWORD>123456</PASSWORD>
+  </ADMIN>
+  <ADMIN>
+    <USERNAME>ciclano</USERNAME>
+    <PASSWORD>123456</PASSWORD>
+  </ADMIN>
+</ADMINS>
